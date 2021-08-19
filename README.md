@@ -8,3 +8,5 @@
 Есть даже отзыв: https://otzovik.com/reviews/realtymoney-ekonomicheskaya_igra_dlya_pc/
 
 Остались даже видео на youtube, в файле ***video.php*** можно посмотреть ссылки
+
+`Дамп данных удален, только структура`
